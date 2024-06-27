@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm jinna jahnavi</h1>
 <h3 align="center">Student by Day, Developer by Night | Developer & AI Enthusiast</h3>
-<img align="center" alt="coding" width="500" size=10px src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align="center" alt="coding" width="300" size=10px src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinnajhanvi&label=Profile%20views&color=0e75b6&style=flat" alt="jinnajhanvi" /> </p>
 
