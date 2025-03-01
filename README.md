@@ -8,11 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/jinna jahnavi" target="blank"><img src="https://img.shields.io/twitter/follow/jinna jahnavi?logo=twitter&style=for-the-badge" alt="jinna jahnavi" /></a> </p>
 
-- 🔭 I’m currently working on **Meetup**
 
 - 🌱 I’m currently learning **ReactJS**
-
-- 👯 I’m looking to collaborate on **Wonderwheels**
 
 - 💬 Ask me about **ReactJS,Html,Css,JavaScript,Cpp**
 
