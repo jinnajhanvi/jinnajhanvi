@@ -9,8 +9,6 @@
 <p align="left"> <a href="https://twitter.com/jinna jahnavi" target="blank"><img src="https://img.shields.io/twitter/follow/jinna jahnavi?logo=twitter&style=for-the-badge" alt="jinna jahnavi" /></a> </p>
 
 
-- 🌱 I’m currently learning **ReactJS**
-
 - 💬 Ask me about **Excel,PowerBI,SQL,Python**
 
 - 📫 How to reach me **jinnajhanvi@gmail.com**
