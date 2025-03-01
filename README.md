@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **ReactJS,Html,Css,JavaScript,Cpp**
+- 💬 Ask me about **Excel,PowerBI,SQL,Python**
 
 - 📫 How to reach me **jinnajhanvi@gmail.com**
 
